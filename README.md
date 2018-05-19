@@ -11,14 +11,14 @@ Formula of EURX: EURX = 34.38805726 x (EURUSD)^(-0.3155) x (EURGBP)^(0.3056) x (
 
 Installation:
 
-Your must signup a MT4 account with any forex broker;
-Your forex broker must provide the following currency pairs: EURUSD, EURGBP, EURJPY, EURSEK, EURCHF
-Open your MT4 Platform, select "File" > "Open Data Folder" > "MQL4" > "Indicators"
-Drag the "EURX.mq4" file into "Indicators" folder in the 3 step
-Select "View" > "Navigator", under "Indicators" list, select "EURX", right click and select "Modify"
-In the MetaEditor, select "EURX.mq4", click "Compile" or F7(keyboard shortcut)
-Close your MT4 platform
-Reopen your MT4 platform
-Select "View" > "Navigator", under "Indicators" list, select "EURX"
-Drag "EURX" indicator to any Chart Window
-Enjoy!
+1. Your must signup a MT4 account with any forex broker;
+2. Your forex broker must provide the following currency pairs: EURUSD, EURGBP, EURJPY, EURSEK, EURCHF
+3. Open your MT4 Platform, select "File" > "Open Data Folder" > "MQL4" > "Indicators"
+4. Drag the "EURX.mq4" file into "Indicators" folder in the 3 step
+5. Select "View" > "Navigator", under "Indicators" list, select "EURX", right click and select "Modify"
+6. In the MetaEditor, select "EURX.mq4", click "Compile" or F7(keyboard shortcut)
+7. Close your MT4 platform
+8. Reopen your MT4 platform
+9. Select "View" > "Navigator", under "Indicators" list, select "EURX"
+10. Drag "EURX" indicator to any Chart Window
+11. Enjoy!
